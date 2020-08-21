@@ -12,6 +12,7 @@ spec:
   - fromEndpoints:
     - matchLabels:
         org: empire
+        class: tiefighter
     toPorts:
     - ports:
       - port: "80"
