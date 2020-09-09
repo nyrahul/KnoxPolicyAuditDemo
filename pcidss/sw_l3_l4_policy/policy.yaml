@@ -11,7 +11,7 @@ spec:
   ingress:
   - fromEndpoints:
     - matchLabels:
-        org: empire
+        org: broadcom
         class: tiefighter
     toPorts:
     - ports:
